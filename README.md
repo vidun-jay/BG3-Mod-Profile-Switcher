@@ -16,6 +16,8 @@ This Python script facilitates managing mods for Baldur's Gate 3. It allows user
 2. On the first run, you will be prompted to enter the path to your Mods folder and the full path to BG3ModManager.exe. These paths will be saved in `.bg3config` for subsequent uses.
 3. The script will list all available mod profiles based on the zipped files in the Mods folder. Select a profile to set it up for your game.
 
+⚠️**Note:** For each profile, zip the files and name it `<profile-name>-Mods.zip`. This is important as the script looks for the "`*-Mods`" suffix.
+
 Configuration
 The script saves the configurations in a hidden file named `.bg3config` in the user's home directory. This file includes:
 
