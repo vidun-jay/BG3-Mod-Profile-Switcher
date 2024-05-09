@@ -1,4 +1,4 @@
-# BG3 Mod Manager Script
+# BG3 Mod Profile Switcher
 This Python script facilitates managing mods for Baldur's Gate 3. It allows users to select a mod profile from .zip files located in a specified Mods folder and automatically extracts the selected profile to a designated directory. The script saves user settings to streamline future operations.
 
 ## Features
